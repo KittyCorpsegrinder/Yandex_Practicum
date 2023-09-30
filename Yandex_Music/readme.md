@@ -2,6 +2,7 @@
 ## Яндекс Музыка
 
 [Проект можно увидеть пройдя по этой ссылке](https://github.com/KittyCorpsegrinder/Yandex_Practicum/blob/main/Yandex_Music/yandex_music.ipynb)
+В силу действия политики конфиденциальности из проекта вырезан датафрейм с рабочими данными
 
 ### Задачи проекта:
 
