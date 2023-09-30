@@ -1,6 +1,8 @@
 
 ## Яндекс Музыка
 
+[Проект можно увидеть пройдя по этой ссылке](https://github.com/KittyCorpsegrinder/Yandex_Practicum/blob/main/Yandex_Music/yandex_music.ipynb)
+
 ### Задачи проекта:
 
 Проверить три гипотезы:
