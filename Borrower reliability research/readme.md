@@ -1,7 +1,6 @@
 ## Исследование надежности заёмщиков
-[Первую часть проекта можно увидеть пройдя по этой ссылке](https://github.com/KittyCorpsegrinder/Yandex_Practicum/blob/main/Borrower%20reliability%20research/Borrower_reliability_research1.ipynb) 
+[Проект можно открыть пройдя по этой ссылке](https://github.com/KittyCorpsegrinder/Yandex_Practicum/blob/main/Borrower%20reliability%20research/Borrower_reliability_research2.ipynb) 
 
-[Вторую часть проекта можно увидеть по этой ссылке]()
 В силу действия политики конфиденциальности из проекта вырезан датафрейм с рабочими данными
 
 ## Задачи проекта:
