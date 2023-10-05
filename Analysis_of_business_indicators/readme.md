@@ -1,5 +1,5 @@
 ## Анализ бизнес показателей
-[Проект можно открыть пройдя по этой ссылке]()
+[Проект можно открыть пройдя по этой ссылке](https://github.com/KittyCorpsegrinder/Yandex_Practicum/blob/main/Analysis_of_business_indicators/Analysis%20of%20business%20indicators.ipynb)
 
 В силу действия политики конфиденциальности из проекта вырезан датафрейм с рабочими данными
 
