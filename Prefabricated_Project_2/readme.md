@@ -1,5 +1,5 @@
 ## Сборный проект 2
-[Проект можно открыть пройдя по этой ссылке]()
+[Проект можно открыть пройдя по этой ссылке](https://github.com/KittyCorpsegrinder/Yandex_Practicum/blob/main/Prefabricated_Project_2/Prefabricated_project2.ipynb)
 
 В силу действия политики конфиденциальности из проекта вырезан датафрейм с рабочими данными
 
