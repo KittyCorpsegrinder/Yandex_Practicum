@@ -1,5 +1,5 @@
 ## Принятие решений в бизнесе
-[Проект можно открыть пройдя по этой ссылке]()
+[Проект можно открыть пройдя по этой ссылке](https://github.com/KittyCorpsegrinder/Yandex_Practicum/blob/main/Decision_making_in_business/Decision%20making%20in%20business.ipynb)
 
 В силу действия политики конфиденциальности из проекта вырезан датафрейм с рабочими данными
 
